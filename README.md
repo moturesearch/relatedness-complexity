@@ -1,5 +1,7 @@
 # Relatedness, Complexity and Local Growth
 
+[![DOI](https://zenodo.org/badge/174050338.svg)](https://zenodo.org/badge/latestdoi/174050338)
+
 This repository contains the source material for [Motu Working Paper 19-01][wp-url].
 Its purpose is to provide a public record of our methods and results, and to ensure that those results are easily reproducible.
 
