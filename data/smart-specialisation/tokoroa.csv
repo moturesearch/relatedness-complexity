@@ -1,0 +1,39 @@
+ind,ind_name,occ_name,size,mean_local_relatedness,act_complexity
+CC141,"Fruit, oil, cereal and other food product manufacturing",Plant and machine operators and assemblers,6,0.56,-0.61
+CC721,Fabricated metal product manufacturing,Legislators,6,0.55,-0.35
+EE1_,Other construction,Legislators,21,0.53,-0.5
+EE1_,Other construction,Technicians and associate professionals,12,0.56,-0.87
+EE1_,Other construction,Clerks,9,0.57,-0.99
+EE1_,Other construction,Trades workers,63,0.55,-0.93
+EE110,Residential building construction,Trades workers,27,0.53,-0.61
+FF11_,"Machinery, equipment and motor vehical parts wholesaling",Legislators,9,0.45,1.3
+FF11_,"Machinery, equipment and motor vehical parts wholesaling",Clerks,9,0.49,0.42
+GH131,"Furniture, electrical and hardware retailing",Legislators,15,0.54,0.29
+GH131,"Furniture, electrical and hardware retailing",Service and sales workers,15,0.57,-0.62
+GH132,"Recreational, clothing, footwear and personal accessory retailing",Legislators,9,0.45,1.61
+GH132,"Recreational, clothing, footwear and personal accessory retailing",Service and sales workers,12,0.47,0.8
+GH133,Department stores,Service and sales workers,15,0.58,-1.08
+GH21_,Accomodation and food services,Clerks,12,0.49,1.09
+GH21_,Accomodation and food services,Service and sales workers,90,0.46,1.4
+GH21_,Accomodation and food services,Elementary occupations (inc. residuals),15,0.58,-0.6
+II13_,"Postal, courier transport support and warehousing services",Clerks,12,0.51,-0.09
+II13_,"Postal, courier transport support and warehousing services",Elementary occupations (inc. residuals),12,0.54,-0.61
+JJ11_,Information media services,Technicians and associate professionals,12,0.41,1.92
+KK1_,Other financial and insurance services,Technicians and associate professionals,6,0.42,1.57
+KK110,Banking and financing; financial asset investing,Legislators,9,0.41,2.01
+KK110,Banking and financing; financial asset investing,Professionals,9,0.4,1.9
+KK110,Banking and financing; financial asset investing,Technicians and associate professionals,9,0.4,1.86
+KK110,Banking and financing; financial asset investing,Clerks,12,0.41,1.7
+LL12_,Property operators and real estate services,Technicians and associate professionals,6,0.45,1.63
+MN11_,"Professional, scientific and technical services",Professionals,33,0.4,1.86
+MN11_,"Professional, scientific and technical services",Technicians and associate professionals,18,0.4,1.99
+MN11_,"Professional, scientific and technical services",Clerks,27,0.41,1.9
+MN21_,Administrative and support services,Technicians and associate professionals,9,0.41,2
+OO211,Central government administration and justice,Technicians and associate professionals,21,0.52,-0.23
+QQ11_,Health care and social assistance,Legislators,24,0.56,-0.08
+QQ11_,Health care and social assistance,Professionals,96,0.52,0.53
+QQ11_,Health care and social assistance,Technicians and associate professionals,72,0.6,-0.95
+RS11_,Arts and recreational services,Technicians and associate professionals,18,0.43,1.4
+RS11_,Arts and recreational services,Service and sales workers,6,0.47,1.1
+RS210,Personal services; domestic household staff,Service and sales workers,27,0.58,-0.57
+RS219,"Religious services; civil, professional and other interest groups",Professionals,12,0.42,1.79

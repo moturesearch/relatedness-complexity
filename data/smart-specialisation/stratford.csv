@@ -1,0 +1,12 @@
+ind,ind_name,occ_name,size,mean_local_relatedness,act_complexity
+EE1_,Other construction,Legislators,9,0.55,-0.5
+GH132,"Recreational, clothing, footwear and personal accessory retailing",Service and sales workers,12,0.49,0.8
+MN11_,"Professional, scientific and technical services",Professionals,27,0.4,1.86
+MN11_,"Professional, scientific and technical services",Technicians and associate professionals,15,0.4,1.99
+MN21_,Administrative and support services,Clerks,6,0.4,1.53
+OO21_,Public safety and defence,Service and sales workers,15,0.56,-0.29
+PP11_,Education and training,Legislators,15,0.49,1.12
+QQ11_,Health care and social assistance,Legislators,9,0.58,-0.08
+QQ11_,Health care and social assistance,Professionals,60,0.54,0.53
+QQ11_,Health care and social assistance,Technicians and associate professionals,27,0.62,-0.95
+QQ11_,Health care and social assistance,Clerks,15,0.62,-1.07

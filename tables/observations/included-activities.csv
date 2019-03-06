@@ -1,0 +1,66 @@
+ind,ind_name,1,2,3,4,5,6,7,8,9
+AA111,Horticulture and fruit growing,,,,,,X,,,
+AA121,"Sheep, beef cattle and grain farming",,,,,,X,,,
+AA131,Dairy cattle farming,,,,,,X,,,
+AA141,"Poultry, deer and other livestock farming",,,,,,X,,,
+AA211,Forestry and logging,,,,,,X,,,
+AA310,Fishing and aquaculture,,,,,,,,,
+AA320,"Agriculture, forestry and fishing support services",,,,,,X,,,
+BB11_,Mining,,,,,,,,X,
+CC1_,Meat product manufacturing and seafood processing,,,,X,,,X,X,X
+CC131,Dairy product manufacturing,,,,,,,,X,
+CC141,"Fruit, oil, cereal and other food product manufacturing",X,,,X,X,,X,X,X
+CC151,Beverage and tobacco product manufacturing,,,,,,,,,
+CC211,Textile and leather manufacturing,,,,,,,,X,
+CC212,"Clothing, knitted products and footwear manufacturing",,,,,,,,X,
+CC311,Wood product manufacturing,,,,,,,X,X,X
+CC321,"Pulp, paper and converted paper product manufacturing",,,,,,,,X,
+CC411,Printing,,,,X,,,X,,
+CC5_,"Petroleum, chemical, polymer and rubber product manufacturing",X,X,X,X,,,X,X,X
+CC611,Non-metallic mineral product manufacturing,,,,,,,,X,
+CC711,Primary metal and metal product manufacturing,,,,,,,,X,
+CC721,Fabricated metal product manufacturing,X,,X,X,,,X,X,X
+CC811,Transport equipment manufacturing,,,,,,,X,X,
+CC821,Electronic and electrical equipment manufacturing,X,,X,X,,,,X,X
+CC822,Machinery manufacturing,X,,X,X,,,X,X,
+CC91_,Furniture and other manufacturing,X,,,,,,X,X,X
+DD1_,"Electricity, gas, water and waste services",,,X,X,,,,X,X
+EE1_,Other construction,X,X,X,X,,,X,X,X
+EE110,Residential building construction,,,,X,,,X,,X
+EE113,Non-residential building construction,,,,,,,X,,
+FF11_,"Machinery, equipment and motor vehical parts wholesaling",X,,X,X,X,,X,,X
+FF110,Other goods and commission based wholesaling,X,,X,X,X,,,,X
+FF111,Basic material wholesaling,X,,X,X,X,,,X,X
+FF114,"Grocery, liquor and tobacco product wholesaling",X,,X,X,X,,,X,X
+GH111,Motor vehicle and parts retailing,X,,,X,X,,X,,X
+GH112,Fuel retailing,X,,,,X,,,,
+GH121,Supermarket and grocery stores,X,,,X,X,,,,X
+GH122,Specialised food retailing,X,,,,X,,X,,
+GH130,Other store based retailing; non store and commission based wholesaling,X,X,X,X,X,,,,X
+GH131,"Furniture, electrical and hardware retailing",X,,X,X,X,,X,,X
+GH132,"Recreational, clothing, footwear and personal accessory retailing",X,,,X,X,,,,
+GH133,Department stores,,,,X,X,,,,
+GH21_,Accomodation and food services,X,,,X,X,,,,X
+II111,Road transport,X,,,X,,,,X,X
+II120,Other transport,,,,,,,,,
+II121,Rail transport,,,,,,,,,
+II123,Air and space transport,,,X,,X,,,,
+II13_,"Postal, courier transport support and warehousing services",,,,X,,,,X,X
+JJ11_,Information media services,,,X,X,,,,,X
+JJ120,Telecommunications services including internet service providers,X,X,X,X,,,,,
+JJ123,Library and other information services,,,,X,,,,,
+KK1_,Other financial and insurance services,X,,X,X,,,,,
+KK110,Banking and financing; financial asset investing,X,X,X,X,,,,,
+LL110,Rental and hiring services (exc. real estate); non-financial asset leasing,,,,,,,,,
+LL12_,Property operators and real estate services,,,X,X,,,,,
+MN11_,"Professional, scientific and technical services",,X,X,X,,,,,
+MN21_,Administrative and support services,,X,X,X,X,,,,X
+OO111,Local government administration,,X,X,X,,,,,
+OO21_,Public safety and defence,,,,X,X,,,,
+OO211,Central government administration and justice,X,X,X,X,X,,,,
+PP11_,Education and training,X,X,X,X,X,,,,X
+QQ11_,Health care and social assistance,X,X,X,X,X,,,X,X
+RS11_,Arts and recreational services,,,X,X,X,X,,,
+RS210,Personal services; domestic household staff,,,,,X,,,X,
+RS211,Repair and maintenance,,,,X,,,X,,
+RS219,"Religious services; civil, professional and other interest groups",X,X,X,X,,,,,

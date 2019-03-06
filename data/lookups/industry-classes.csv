@@ -1,0 +1,17 @@
+ind_class,ind_class_name,sector_name
+AA,"Agriculture, forestry and fishing",Primary
+BB,Mining,Primary
+CC,Manufacturing,Goods-producing
+DD,"Electricity, gas, water and waste services",Goods-producing
+EE,Construction,Goods-producing
+FF,Wholesale trade,Distributive services
+GH,Retail trade and accomodation,Distributive services
+II,"Transport, postal and warehousing",Distributive services
+JJ,Information media and telecommunications,Information services
+KK,Financial and insurance services,Information services
+LL,"Rental, hiring and real estate services",Person-centred services
+MN,"Professional, scientific, technical, administrative and support services",Person-centred services
+OO,Public administration and safety,Person-centred services
+PP,Education and training,Information services
+QQ,Health care and social assistance,Person-centred services
+RS,"Arts, recreation and other services",Person-centred services

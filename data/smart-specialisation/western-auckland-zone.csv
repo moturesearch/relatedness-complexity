@@ -1,0 +1,82 @@
+ind,ind_name,occ_name,size,mean_local_relatedness,act_complexity
+AA111,Horticulture and fruit growing,Agriculture and fishery workers,336,0.47,-0.66
+AA121,"Sheep, beef cattle and grain farming",Agriculture and fishery workers,57,0.45,-0.92
+AA131,Dairy cattle farming,Agriculture and fishery workers,21,0.47,-0.47
+AA141,"Poultry, deer and other livestock farming",Agriculture and fishery workers,45,0.45,-0.97
+AA211,Forestry and logging,Agriculture and fishery workers,15,0.46,-0.5
+AA320,"Agriculture, forestry and fishing support services",Agriculture and fishery workers,21,0.46,-0.61
+BB11_,Mining,Plant and machine operators and assemblers,15,0.47,-0.59
+CC1_,Meat product manufacturing and seafood processing,Trades workers,15,0.45,-0.77
+CC1_,Meat product manufacturing and seafood processing,Plant and machine operators and assemblers,177,0.45,-0.85
+CC1_,Meat product manufacturing and seafood processing,Elementary occupations (inc. residuals),132,0.45,-0.97
+CC131,Dairy product manufacturing,Plant and machine operators and assemblers,12,0.46,-0.83
+CC141,"Fruit, oil, cereal and other food product manufacturing",Service and sales workers,138,0.5,0.65
+CC141,"Fruit, oil, cereal and other food product manufacturing",Trades workers,144,0.49,-0.56
+CC141,"Fruit, oil, cereal and other food product manufacturing",Plant and machine operators and assemblers,153,0.48,-0.61
+CC141,"Fruit, oil, cereal and other food product manufacturing",Elementary occupations (inc. residuals),201,0.49,-0.58
+CC311,Wood product manufacturing,Trades workers,108,0.45,-1.16
+CC311,Wood product manufacturing,Plant and machine operators and assemblers,75,0.46,-0.84
+CC311,Wood product manufacturing,Elementary occupations (inc. residuals),81,0.45,-0.99
+CC321,"Pulp, paper and converted paper product manufacturing",Plant and machine operators and assemblers,42,0.48,-0.75
+CC711,Primary metal and metal product manufacturing,Plant and machine operators and assemblers,33,0.48,-0.68
+CC822,Machinery manufacturing,Clerks,42,0.47,-1.07
+CC822,Machinery manufacturing,Plant and machine operators and assemblers,69,0.48,-0.85
+DD1_,"Electricity, gas, water and waste services",Technicians and associate professionals,66,0.48,-0.41
+DD1_,"Electricity, gas, water and waste services",Clerks,48,0.47,-0.75
+DD1_,"Electricity, gas, water and waste services",Elementary occupations (inc. residuals),87,0.45,-1
+EE110,Residential building construction,Clerks,75,0.47,-0.45
+EE113,Non-residential building construction,Trades workers,171,0.44,-1.04
+FF114,"Grocery, liquor and tobacco product wholesaling",Technicians and associate professionals,102,0.53,0.83
+FF114,"Grocery, liquor and tobacco product wholesaling",Clerks,120,0.49,-0.29
+FF114,"Grocery, liquor and tobacco product wholesaling",Service and sales workers,108,0.48,-0.22
+FF114,"Grocery, liquor and tobacco product wholesaling",Plant and machine operators and assemblers,60,0.47,-0.95
+FF114,"Grocery, liquor and tobacco product wholesaling",Elementary occupations (inc. residuals),114,0.5,-0.42
+GH111,Motor vehicle and parts retailing,Legislators,156,0.47,-1
+GH111,Motor vehicle and parts retailing,Clerks,42,0.49,-0.79
+GH111,Motor vehicle and parts retailing,Trades workers,126,0.45,-1.12
+GH111,Motor vehicle and parts retailing,Elementary occupations (inc. residuals),60,0.46,-1.16
+GH112,Fuel retailing,Service and sales workers,54,0.44,-1.04
+GH121,Supermarket and grocery stores,Legislators,393,0.47,-0.79
+GH121,Supermarket and grocery stores,Clerks,510,0.43,-1.08
+GH121,Supermarket and grocery stores,Service and sales workers,534,0.43,-0.92
+GH121,Supermarket and grocery stores,Elementary occupations (inc. residuals),96,0.45,-1.15
+GH130,Other store based retailing; non store and commission based wholesaling,Professionals,153,0.56,1.7
+GH131,"Furniture, electrical and hardware retailing",Clerks,180,0.48,-0.99
+GH131,"Furniture, electrical and hardware retailing",Service and sales workers,459,0.46,-0.62
+GH131,"Furniture, electrical and hardware retailing",Trades workers,69,0.45,-1.15
+GH132,"Recreational, clothing, footwear and personal accessory retailing",Legislators,393,0.55,1.61
+GH132,"Recreational, clothing, footwear and personal accessory retailing",Service and sales workers,723,0.52,0.8
+GH133,Department stores,Clerks,111,0.46,-1.01
+GH133,Department stores,Service and sales workers,354,0.44,-1.08
+GH21_,Accomodation and food services,Legislators,867,0.5,0.97
+GH21_,Accomodation and food services,Clerks,276,0.51,1.09
+GH21_,Accomodation and food services,Service and sales workers,2328,0.51,1.4
+GH21_,Accomodation and food services,Elementary occupations (inc. residuals),258,0.45,-0.6
+II111,Road transport,Clerks,126,0.49,-0.55
+II111,Road transport,Plant and machine operators and assemblers,801,0.46,-1.13
+II123,Air and space transport,Technicians and associate professionals,159,0.54,0.71
+II13_,"Postal, courier transport support and warehousing services",Plant and machine operators and assemblers,126,0.46,-0.63
+II13_,"Postal, courier transport support and warehousing services",Elementary occupations (inc. residuals),396,0.49,-0.61
+LL12_,Property operators and real estate services,Technicians and associate professionals,492,0.56,1.63
+MN11_,"Professional, scientific and technical services",Professionals,2817,0.52,1.86
+OO211,Central government administration and justice,Legislators,120,0.46,0.63
+OO211,Central government administration and justice,Professionals,180,0.46,0.68
+OO211,Central government administration and justice,Technicians and associate professionals,489,0.44,-0.23
+OO211,Central government administration and justice,Clerks,159,0.45,0.18
+OO211,Central government administration and justice,Service and sales workers,57,0.44,-0.24
+PP11_,Education and training,Legislators,789,0.52,1.12
+PP11_,Education and training,Professionals,4284,0.49,0.34
+PP11_,Education and training,Clerks,525,0.5,0.69
+PP11_,Education and training,Service and sales workers,270,0.47,-0.29
+PP11_,Education and training,Elementary occupations (inc. residuals),363,0.45,-0.8
+QQ11_,Health care and social assistance,Legislators,612,0.47,-0.08
+QQ11_,Health care and social assistance,Professionals,3015,0.49,0.53
+QQ11_,Health care and social assistance,Technicians and associate professionals,1683,0.46,-0.95
+QQ11_,Health care and social assistance,Service and sales workers,1908,0.45,-1.19
+QQ11_,Health care and social assistance,Plant and machine operators and assemblers,63,0.44,-1.18
+QQ11_,Health care and social assistance,Elementary occupations (inc. residuals),273,0.45,-1.16
+RS11_,Arts and recreational services,Technicians and associate professionals,636,0.49,1.4
+RS11_,Arts and recreational services,Agriculture and fishery workers,84,0.46,-0.77
+RS210,Personal services; domestic household staff,Service and sales workers,561,0.46,-0.57
+RS219,"Religious services; civil, professional and other interest groups",Legislators,237,0.5,1.52
+RS219,"Religious services; civil, professional and other interest groups",Technicians and associate professionals,228,0.51,1.15
