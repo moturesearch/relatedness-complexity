@@ -1,9 +1,3 @@
-# files
-.dropbox
-.Rapp.history
-.RData
-.Rhistory
-
-# folders
-.Rproj.user
 _*
+.Rproj.user
+figures

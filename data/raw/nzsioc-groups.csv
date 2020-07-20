@@ -1,0 +1,215 @@
+anzsic06,nzsioc13,nzsioc13_desc,nzsioc13_gp,nzsioc13_gp_desc
+A011,AA111,Horticulture and fruit growing,AA111,Horticulture and fruit growing
+A012,AA111,Horticulture and fruit growing,AA111,Horticulture and fruit growing
+A013,AA111,Horticulture and fruit growing,AA111,Horticulture and fruit growing
+A014,AA121,"Sheep, beef cattle and grain farming",AA121,"Sheep, beef cattle and grain farming"
+A015,AA121,"Sheep, beef cattle and grain farming",AA121,"Sheep, beef cattle and grain farming"
+A016,AA131,Dairy cattle farming,AA131,Dairy cattle farming
+A017,AA141,"Poultry, deer and other livestock farming",AA141,"Poultry, deer and other livestock farming"
+A018,AA141,"Poultry, deer and other livestock farming",AA141,"Poultry, deer and other livestock farming"
+A019,AA141,"Poultry, deer and other livestock farming",AA141,"Poultry, deer and other livestock farming"
+A020,AA310,Fishing and aquaculture,AA310,Fishing and aquaculture
+A030,AA211,Forestry and logging,AA211,Forestry and logging
+A041,AA310,Fishing and aquaculture,AA310,Fishing and aquaculture
+A042,AA320,"Agriculture, forestry and fishing support services",AA320,"Agriculture, forestry and fishing support services"
+A051,AA320,"Agriculture, forestry and fishing support services",AA320,"Agriculture, forestry and fishing support services"
+A052,AA320,"Agriculture, forestry and fishing support services",AA320,"Agriculture, forestry and fishing support services"
+B060,BB111,Coal mining,BB11_,Mining
+B070,BB112,Oil and gas extraction,BB11_,Mining
+B080,BB113,Metal ore and non-metallic mineral mining and quarrying,BB11_,Mining
+B091,BB113,Metal ore and non-metallic mineral mining and quarrying,BB11_,Mining
+B099,BB113,Metal ore and non-metallic mineral mining and quarrying,BB11_,Mining
+B101,BB114,Exploration and other mining support services,BB11_,Mining
+B109,BB114,Exploration and other mining support services,BB11_,Mining
+C111,CC111,Meat and meat product manufacturing,CC1_,Meat_Fish_Mfrg
+C112,CC121,Seafood processing,CC1_,Meat_Fish_Mfrg
+C113,CC131,Dairy product manufacturing,CC131,Dairy product manufacturing
+C114,CC141,"Fruit, oil, cereal and other food product manufacturing",CC141,"Fruit, oil, cereal and other food product manufacturing"
+C115,CC141,"Fruit, oil, cereal and other food product manufacturing",CC141,"Fruit, oil, cereal and other food product manufacturing"
+C116,CC141,"Fruit, oil, cereal and other food product manufacturing",CC141,"Fruit, oil, cereal and other food product manufacturing"
+C117,CC141,"Fruit, oil, cereal and other food product manufacturing",CC141,"Fruit, oil, cereal and other food product manufacturing"
+C118,CC141,"Fruit, oil, cereal and other food product manufacturing",CC141,"Fruit, oil, cereal and other food product manufacturing"
+C119,CC141,"Fruit, oil, cereal and other food product manufacturing",CC141,"Fruit, oil, cereal and other food product manufacturing"
+C121,CC151,Beverage and tobacco product manufacturing,CC151,Beverage and tobacco product manufacturing
+C122,CC151,Beverage and tobacco product manufacturing,CC151,Beverage and tobacco product manufacturing
+C131,CC211,Textile and leather manufacturing,CC211,Textile and leather manufacturing
+C132,CC211,Textile and leather manufacturing,CC211,Textile and leather manufacturing
+C133,CC211,Textile and leather manufacturing,CC211,Textile and leather manufacturing
+C134,CC212,"Clothing, knitted products and footwear manufacturing",CC212,"Clothing, knitted products and footwear manufacturing"
+C135,CC212,"Clothing, knitted products and footwear manufacturing",CC212,"Clothing, knitted products and footwear manufacturing"
+C141,CC311,Wood product manufacturing,CC311,Wood product manufacturing
+C149,CC311,Wood product manufacturing,CC311,Wood product manufacturing
+C151,CC321,"Pulp, paper and converted paper product manufacturing",CC321,"Pulp, paper and converted paper product manufacturing"
+C152,CC321,"Pulp, paper and converted paper product manufacturing",CC321,"Pulp, paper and converted paper product manufacturing"
+C161,CC411,Printing,CC411,Printing
+C162,CC411,Printing,CC411,Printing
+C170,CC511,Petroleum and coal product manufacturing,CC5_,Petrochem
+C181,CC521,Basic chemical and basic polymer manufacturing,CC5_,Petrochem
+C182,CC521,Basic chemical and basic polymer manufacturing,CC5_,Petrochem
+C183,CC522,Fertiliser and pesticide manufacturing,CC5_,Petrochem
+C184,CC523,"Pharmaceutical, cleaning and other chemical manufacturing",CC5_,Petrochem
+C185,CC523,"Pharmaceutical, cleaning and other chemical manufacturing",CC5_,Petrochem
+C189,CC523,"Pharmaceutical, cleaning and other chemical manufacturing",CC5_,Petrochem
+C191,CC531,Polymer product and rubber product manufacturing,CC5_,Petrochem
+C192,CC531,Polymer product and rubber product manufacturing,CC5_,Petrochem
+C201,CC611,Non-metallic mineral product manufacturing,CC611,Non-metallic mineral product manufacturing
+C202,CC611,Non-metallic mineral product manufacturing,CC611,Non-metallic mineral product manufacturing
+C203,CC611,Non-metallic mineral product manufacturing,CC611,Non-metallic mineral product manufacturing
+C209,CC611,Non-metallic mineral product manufacturing,CC611,Non-metallic mineral product manufacturing
+C211,CC711,Primary metal and metal product manufacturing,CC711,Primary metal and metal product manufacturing
+C212,CC711,Primary metal and metal product manufacturing,CC711,Primary metal and metal product manufacturing
+C213,CC711,Primary metal and metal product manufacturing,CC711,Primary metal and metal product manufacturing
+C214,CC711,Primary metal and metal product manufacturing,CC711,Primary metal and metal product manufacturing
+C221,CC721,Fabricated metal product manufacturing,CC721,Fabricated metal product manufacturing
+C222,CC721,Fabricated metal product manufacturing,CC721,Fabricated metal product manufacturing
+C223,CC721,Fabricated metal product manufacturing,CC721,Fabricated metal product manufacturing
+C224,CC721,Fabricated metal product manufacturing,CC721,Fabricated metal product manufacturing
+C229,CC721,Fabricated metal product manufacturing,CC721,Fabricated metal product manufacturing
+C231,CC811,Transport equipment manufacturing,CC811,Transport equipment manufacturing
+C239,CC811,Transport equipment manufacturing,CC811,Transport equipment manufacturing
+C241,CC821,Electronic and electrical equipment manufacturing,CC821,Electronic and electrical equipment manufacturing
+C242,CC821,Electronic and electrical equipment manufacturing,CC821,Electronic and electrical equipment manufacturing
+C243,CC821,Electronic and electrical equipment manufacturing,CC821,Electronic and electrical equipment manufacturing
+C244,CC821,Electronic and electrical equipment manufacturing,CC821,Electronic and electrical equipment manufacturing
+C245,CC822,Machinery manufacturing,CC822,Machinery manufacturing
+C246,CC822,Machinery manufacturing,CC822,Machinery manufacturing
+C249,CC822,Machinery manufacturing,CC822,Machinery manufacturing
+C251,CC911,Furniture manufacturing,CC91_,Other_Mfrg
+C259,CC912,Other manufacturing,CC91_,Other_Mfrg
+D261,DD111,Electricity generation and on-selling,DD1_,Elec_Gas_Water
+D262,DD112,Electricity transmission and distribution,DD1_,Elec_Gas_Water
+D263,DD112,Electricity transmission and distribution,DD1_,Elec_Gas_Water
+D264,DD111,Electricity generation and on-selling,DD1_,Elec_Gas_Water
+D270,DD113,Gas supply,DD1_,Elec_Gas_Water
+D281,DD12_,Water Sewerage Drainage,DD1_,Elec_Gas_Water
+D291,DD123,"Waste collection, treatment and disposal services",DD1_,Elec_Gas_Water
+D292,DD123,"Waste collection, treatment and disposal services",DD1_,Elec_Gas_Water
+E301,EE110,Residential building construction,EE110,Residential building construction
+E302,EE113,Non-residential building construction,EE113,Non-residential building construction
+E310,EE121,Heavy and civil engineering construction,EE1_,Construct
+E321,EE131,Construction services,EE1_,Construct
+E322,EE131,Construction services,EE1_,Construct
+E323,EE131,Construction services,EE1_,Construct
+E324,EE131,Construction services,EE1_,Construct
+E329,EE131,Construction services,EE1_,Construct
+F331,FF111,Basic material wholesaling,FF111,Basic material wholesaling
+F332,FF111,Basic material wholesaling,FF111,Basic material wholesaling
+F333,FF111,Basic material wholesaling,FF111,Basic material wholesaling
+F341,FF112,Machinery and equipment wholesaling,FF11_,Oth_Wholesale
+F349,FF112,Machinery and equipment wholesaling,FF11_,Oth_Wholesale
+F350,FF113,Motor vehicle and motor vehicle parts wholesaling,FF11_,Oth_Wholesale
+F360,FF114,"Grocery, liquor and tobacco product wholesaling",FF114,"Grocery, liquor and tobacco product wholesaling"
+F371,FF110,Other goods and commission based wholesaling,FF110,Other goods and commission based wholesaling
+F372,FF110,Other goods and commission based wholesaling,FF110,Other goods and commission based wholesaling
+F373,FF110,Other goods and commission based wholesaling,FF110,Other goods and commission based wholesaling
+F380,FF110,Other goods and commission based wholesaling,FF110,Other goods and commission based wholesaling
+G391,GH111,Motor vehicle and parts retailing,GH111,Motor vehicle and parts retailing
+G392,GH111,Motor vehicle and parts retailing,GH111,Motor vehicle and parts retailing
+G400,GH112,Fuel retailing,GH112,Fuel retailing
+G411,GH121,Supermarket and grocery stores,GH121,Supermarket and grocery stores
+G412,GH122,Specialised food retailing,GH122,Specialised food retailing
+G421,GH131,"Furniture, electrical and hardware retailing",GH131,"Furniture, electrical and hardware retailing"
+G422,GH131,"Furniture, electrical and hardware retailing",GH131,"Furniture, electrical and hardware retailing"
+G423,GH131,"Furniture, electrical and hardware retailing",GH131,"Furniture, electrical and hardware retailing"
+G424,GH132,"Recreational, clothing, footwear and personal accessory retailing",GH132,"Recreational, clothing, footwear and personal accessory retailing"
+G425,GH132,"Recreational, clothing, footwear and personal accessory retailing",GH132,"Recreational, clothing, footwear and personal accessory retailing"
+G426,GH133,Department stores,GH133,Department stores
+G427,GH130,Other store based retailing; non store and commission based wholesaling,GH130,Other store based retailing; non store and commission based wholesaling
+G431,GH130,Other store based retailing; non store and commission based wholesaling,GH130,Other store based retailing; non store and commission based wholesaling
+G432,GH130,Other store based retailing; non store and commission based wholesaling,GH130,Other store based retailing; non store and commission based wholesaling
+H440,GH211,Accommodation,GH21_,Accom_Food_Bev
+H451,GH212,Food and beverage services,GH21_,Accom_Food_Bev
+H452,GH212,Food and beverage services,GH21_,Accom_Food_Bev
+H453,GH212,Food and beverage services,GH21_,Accom_Food_Bev
+I461,II111,Road transport,II111,Road transport
+I462,II111,Road transport,II111,Road transport
+I471,II121,Rail transport,II121,Rail transport
+I472,II121,Rail transport,II121,Rail transport
+I481,II120,Other transport,II120,Other transport
+I482,II120,Other transport,II120,Other transport
+I490,II123,Air and space transport,II123,Air and space transport
+I501,II120,Other transport,II120,Other transport
+I502,II120,Other transport,II120,Other transport
+I510,II131,Postal and courier pick up and delivery services,II13_,Transp_Support
+I521,II132,Transport support services,II13_,Transp_Support
+I522,II132,Transport support services,II13_,Transp_Support
+I529,II132,Transport support services,II13_,Transp_Support
+I530,II133,Warehousing and storage services,II13_,Transp_Support
+J541,JJ111,Publishing (except internet and music publishing),JJ11_,Publicat_Broadc
+J542,JJ111,Publishing (except internet and music publishing),JJ11_,Publicat_Broadc
+J551,JJ112,Motion picture and sound recording activities,JJ11_,Publicat_Broadc
+J552,JJ112,Motion picture and sound recording activities,JJ11_,Publicat_Broadc
+J561,JJ113,Broadcasting and internet publishing,JJ11_,Publicat_Broadc
+J562,JJ113,Broadcasting and internet publishing,JJ11_,Publicat_Broadc
+J570,JJ113,Broadcasting and internet publishing,JJ11_,Publicat_Broadc
+J580,JJ120,Telecommunications services including internet service providers,JJ120,Telecommunications services including internet service providers
+J591,JJ120,Telecommunications services including internet service providers,JJ120,Telecommunications services including internet service providers
+J592,JJ120,Telecommunications services including internet service providers,JJ120,Telecommunications services including internet service providers
+J601,JJ123,Library and other information services,JJ123,Library and other information services
+J602,JJ123,Library and other information services,JJ123,Library and other information services
+K621,KK110,Banking and financing; financial asset investing,KK110,Banking and financing; financial asset investing
+K622,KK110,Banking and financing; financial asset investing,KK110,Banking and financing; financial asset investing
+K623,KK110,Banking and financing; financial asset investing,KK110,Banking and financing; financial asset investing
+K624,KK110,Banking and financing; financial asset investing,KK110,Banking and financing; financial asset investing
+K631,KK121,Life insurance,KK1_,Insur_FinServ
+K632,KK122,Health and general insurance,KK1_,Insur_FinServ
+K633,KK123,Superannuation funds,KK1_,Insur_FinServ
+K641,KK131,Auxiliary finance and insurance services,KK1_,Insur_FinServ
+K642,KK131,Auxiliary finance and insurance services,KK1_,Insur_FinServ
+L661,LL110,Rental and hiring services (except real estate); non-financial asset leasing,LL110,Rental and hiring services (except real estate); non-financial asset leasing
+L662,LL110,Rental and hiring services (except real estate); non-financial asset leasing,LL110,Rental and hiring services (except real estate); non-financial asset leasing
+L663,LL110,Rental and hiring services (except real estate); non-financial asset leasing,LL110,Rental and hiring services (except real estate); non-financial asset leasing
+L664,LL110,Rental and hiring services (except real estate); non-financial asset leasing,LL110,Rental and hiring services (except real estate); non-financial asset leasing
+L671,LL12_,Property Operation,LL12_,Property_RE
+L672,LL123,Real estate services,LL12_,Property_RE
+M691,MN111,"Scientific, architectural and engineering services",MN11_,Prof_Serv
+M692,MN111,"Scientific, architectural and engineering services",MN11_,Prof_Serv
+M693,MN112,Legal and accounting services,MN11_,Prof_Serv
+M694,MN113,"Advertising, market research and management services",MN11_,Prof_Serv
+M695,MN113,"Advertising, market research and management services",MN11_,Prof_Serv
+M696,MN113,"Advertising, market research and management services",MN11_,Prof_Serv
+M697,MN114,Veterinary and other professional services,MN11_,Prof_Serv
+M699,MN114,Veterinary and other professional services,MN11_,Prof_Serv
+M700,MN115,Computer system design and related services,MN11_,Prof_Serv
+N721,MN212,Employment and other administrative services,MN21_,Support_Serv
+N722,MN211,Travel agency and tour arrangement services,MN21_,Support_Serv
+N729,MN212,Employment and other administrative services,MN21_,Support_Serv
+N731,MN213,"Building cleaning, pest control and other support services",MN21_,Support_Serv
+N732,MN213,"Building cleaning, pest control and other support services",MN21_,Support_Serv
+O751,OO211,Central government administration and justice,OO211,Central government administration and justice
+O752,OO211,Central government administration and justice,OO211,Central government administration and justice
+O753,OO111,Local government administration,OO111,Local government administration
+O754,OO211,Central government administration and justice,OO211,Central government administration and justice
+O755,OO211,Central government administration and justice,OO211,Central government administration and justice
+O760,OO212,Defence,OO21_,Safety_Defence
+O771,OO213,"Public order, safety and regulatory services",OO21_,Safety_Defence
+O772,OO213,"Public order, safety and regulatory services",OO21_,Safety_Defence
+P801,PP111,Preschool education,PP11_,Education
+P802,PP112,School education,PP11_,Education
+P810,PP113,Tertiary education,PP11_,Education
+P821,PP114,"Adult, community and other education",PP11_,Education
+P822,PP114,"Adult, community and other education",PP11_,Education
+Q840,QQ111,Hospitals,QQ11_,MedicOthHealth
+Q851,QQ112,Medical and other health care services,QQ11_,MedicOthHealth
+Q852,QQ112,Medical and other health care services,QQ11_,MedicOthHealth
+Q853,QQ112,Medical and other health care services,QQ11_,MedicOthHealth
+Q859,QQ112,Medical and other health care services,QQ11_,MedicOthHealth
+Q860,QQ113,Residential care services and social assistance,QQ11_,MedicOthHealth
+Q871,QQ113,Residential care services and social assistance,QQ11_,MedicOthHealth
+Q879,QQ113,Residential care services and social assistance,QQ11_,MedicOthHealth
+R891,RS111,Heritage and artistic activities,RS11_,Recr_Serv
+R892,RS111,Heritage and artistic activities,RS11_,Recr_Serv
+R900,RS111,Heritage and artistic activities,RS11_,Recr_Serv
+R911,RS112,Sport and recreation activities,RS11_,Recr_Serv
+R912,RS112,Sport and recreation activities,RS11_,Recr_Serv
+R913,RS112,Sport and recreation activities,RS11_,Recr_Serv
+R920,RS113,Gambling activities,RS11_,Recr_Serv
+S941,RS211,Repair and maintenance,RS211,Repair and maintenance
+S942,RS211,Repair and maintenance,RS211,Repair and maintenance
+S949,RS211,Repair and maintenance,RS211,Repair and maintenance
+S951,RS210,Personal services; domestic household staff,RS210,Personal services; domestic household staff
+S952,RS210,Personal services; domestic household staff,RS210,Personal services; domestic household staff
+S953,RS210,Personal services; domestic household staff,RS210,Personal services; domestic household staff
+S954,RS219,"Religious services; civil, professional and other interest groups",RS219,"Religious services; civil, professional and other interest groups"
+S955,RS219,"Religious services; civil, professional and other interest groups",RS219,"Religious services; civil, professional and other interest groups"
+S960,RS210,Personal services; domestic household staff,RS210,Personal services; domestic household staff
