@@ -1,5 +1,7 @@
 # Relatedness, Complexity and Local Growth
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3951769.svg)](https://doi.org/10.5281/zenodo.3951769)
+
 This repository contains the source material for "Relatedness, Complexity and Local Growth," which was published first as [Motu Working Paper 19-01](https://motu.nz/our-work/urban-and-regional/regions/relatedness-complexity-and-local-growth/) and subsequently in [*Regional Studies*](https://www.tandfonline.com/cres20).
 
 ## Workflow
